@@ -1,0 +1,13 @@
+1. Install Python:
+
+Make sure Python 3.6 or above is installed on your computer. Download it from python.org
+
+2. Install Requests Library:
+
+Open your terminal or command prompt.
+Run pip install requests to install the requests library.
+
+don't worry about the needed tools, i modified it to where it downloads and installs all the needed libraries for you.
+
+3. Open up the python script and the gen tool should automate for you and install all needed libraries for you. 
+
